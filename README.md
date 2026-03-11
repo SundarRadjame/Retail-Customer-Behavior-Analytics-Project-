@@ -123,7 +123,3 @@ Key business analysis performed using SQL queries:
 - 🗄️ **MySQL** – Data analysis and querying  
 - 📊 **Power BI** – Dashboard visualization  
 - 📓 **Jupyter Notebook** – Exploratory data analysis  
-
----
-
-## 📁 Project Structure
