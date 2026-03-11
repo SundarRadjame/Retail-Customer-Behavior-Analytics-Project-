@@ -9,7 +9,7 @@ The project demonstrates an **end-to-end data analytics workflow using Python fo
 
 ## Dashboard Preview
 
-![Retail Customer Behavior Dashboard](images/Dashboard.png)
+![Retail Customer Behavior Dashboard](Dashboard.png)
 
 The Power BI dashboard provides interactive insights including:
 
